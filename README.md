@@ -17,7 +17,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __VIRTUAL SESSION:-__ |
 | --------- |
-| I __RECORDED__ my Presentation for __GLOBAL AZURE EVENT WITH AZURE ZURICH USER GROUP__ |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __GLOBAL AZURE EVENT__ in __AZURE ZURICH USER GROUP__ Forum/Platform |
 | Duration of My Demo = __1 Hour 12 Mins 32 Secs__ |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nf8iTvWEsNI/0.jpg)](https://www.youtube.com/watch?v=nf8iTvWEsNI&t=10s) |
 
