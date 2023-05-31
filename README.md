@@ -10,15 +10,16 @@ Greetings to my fellow Technology Advocates and Specialists.
 | --------- |
 | __13th May, 2023 at 09:15 AM__ |
 
-| __DURATION OF THE SPEAKER SESSION:-__ |
-| --------- |
-| __45 Mins__ |
-
 | __EVENT ANNOUNCEMENT:-__ |
 | --------- |
 | ![image](https://github.com/arindam0310018/13-May-2023__AZUG-MS-Global-Event/assets/29681063/19741ec8-578c-4542-a9ea-9493a86dccf8) |
 | ![image](https://github.com/arindam0310018/13-May-2023__AZUG-MS-Global-Event/assets/29681063/6cd8c072-fba6-4040-acd2-2d87ea9e15cc) |
 
+| __VIRTUAL SESSION:-__ |
+| --------- |
+| I __RECORDED__ my Presentation for __GLOBAL AZURE EVENT WITH AZURE ZURICH USER GROUP__ |
+| Duration of My Demo = __1 Hour 12 Mins 32 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nf8iTvWEsNI/0.jpg)](https://www.youtube.com/watch?v=nf8iTvWEsNI&t=10s) |
 
 | __PRESENTATION OBJECTIVES:-__ |
 | --------- |
@@ -46,5 +47,3 @@ Greetings to my fellow Technology Advocates and Specialists.
 __Hope You Enjoyed the Session!!!__
 
 __Stay Safe | Keep Learning | Spread Knowledge__
-
-
