@@ -37,7 +37,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __#__ | __CATEGORY__ | __REPOSITORY__ |
 | --------- | --------- | --------- |
-| 1. | Resource Group Blueprint | https://github.com/arindam0310018/13-May-2023__AZUG-MS-Global-Event |
+| 1. | Resource Group Blueprint | - |
 | 2. | Setup and configure DevOps Project | https://github.com/arindam0310018/08-Apr-2022-DevOps__Power-Of-DevOps-CLI-And-REST-API |
 | 3. | App Management with AAD Graph and Devops | https://github.com/arindam0310018/10-Apr-2023-DevOps__Setup-Az-Container-Registry-Service-Connection |
 | 4. | Entitlement Management - Catalog and Access Packages | https://github.com/arindam0310018/24-Feb-2023-Microsoft-Graph-Powershell_Create-Catalog-AccessPackage-Roles-Policies |
